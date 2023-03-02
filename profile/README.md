@@ -1,26 +1,26 @@
 
 <h1 align="center">
   <br>
-  <a href="https://brstore.us"><img src="https://image.noelshack.com/fichiers/2023/09/4/1677718922-footer.png" alt="Build and Run" width="200" height="auto"></a>
+  <a href="https://brstore.us" target="_blank"><img src="https://image.noelshack.com/fichiers/2023/09/4/1677718922-footer.png" alt="Build and Run" width="200" height="auto"></a>
   <br>
   Build and Run
   <br>
 </h1>
 
-<h4 align="center"><a href="http://brstore.us" target="_blank">Build and Run</a> pecializes in website and application development, hosting, design and art, social media marketing, news, and other technical support.</h4>
+<h4 align="center"><a href="http://brstore.us" target="_blank">Build and Run</a> specializes in website and application development, hosting, design and art, social media marketing, news, and other technical support.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/graphql">
+  <a href="https://badge.fury.io/js/graphql" target="_blank">
     <img src="https://badge.fury.io/js/graphql.svg"
          alt="Graphql">
   </a>
-   <a href="http://brstore.ddns.net">
+   <a href="http://brstore.ddns.net" target="_blank">
     <img src="https://img.shields.io/badge/version-v1.0.1-brightgreen">
   </a>
-   <a href="https://brstore.us">
+   <a href="https://brstore.us" target="_blank">
     <img src="https://img.shields.io/badge/version-v2.0.2-orange">
   </a>
-  <a href="https://donate.stripe.com/eVadTF89Uacpa8ofZn">
+  <a href="https://donate.stripe.com/eVadTF89Uacpa8ofZn" target="_blank">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
@@ -39,9 +39,15 @@
 ## Implementation
 
 * Server
-  ![Server](https://image.noelshack.com/fichiers/2023/09/4/1677728649-br-server.png)
+   - <div href="https://image.noelshack.com/fichiers/2023/09/4/1677728649-br-server.png" target="_blank">Get a better view</div>
+   
+  ![Server](https://image.noelshack.com/fichiers/2023/09/4/1677728006-br-server-transparent.png)
+  
 * Payment
-  ![Payment Flow](https://image.noelshack.com/fichiers/2023/09/4/1677728652-br-payment-flow.png)
+   - <div href="https://image.noelshack.com/fichiers/2023/09/4/1677728652-br-payment-flow.png" target="_blank">Get a better view</div>
+
+  ![Payment Flow](https://image.noelshack.com/fichiers/2023/09/4/1677727983-br-payment-flow-transparent.png)
+
 
 
 
