@@ -20,14 +20,14 @@
    <a href="https://brstore.us">
     <img src="https://img.shields.io/badge/version-v2.0.2-orange">
   </a>
-  <a href="https://www.paypal.me/AmitMerchant">
+  <a href="https://donate.stripe.com/eVadTF89Uacpa8ofZn">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
 
 <p align="center">
   <a href="#implementation">Implementation</a> •
-  <a href="#administration">Adminstration</a> •
+  <a href="#administration">Administration</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#support">Support</a> •
@@ -39,9 +39,9 @@
 ## Implementation
 
 * Server
-  ![Server](https://image.noelshack.com/fichiers/2023/09/4/1677728006-br-server-transparent.png)
+  ![Server](https://image.noelshack.com/fichiers/2023/09/4/1677728649-br-server.png)
 * Payment
-  ![Payment Flow](https://image.noelshack.com/fichiers/2023/09/4/1677727983-br-payment-flow-transparent.png)
+  ![Payment Flow](https://image.noelshack.com/fichiers/2023/09/4/1677728652-br-payment-flow.png)
 
 
 
@@ -81,7 +81,7 @@ This software uses the following open source packages:
 
 ## Support
 
-<a href="https://donate.stripe.com/eVadTF89Uacpa8ofZn" target="_blank"><img src="https://image.noelshack.com/fichiers/2023/09/4/1677728255-donate-unscreen.gif" alt="Donate" style="height: auto !important; width: 100px !important;" ></a>
+<a href="https://donate.stripe.com/eVadTF89Uacpa8ofZn" target="_blank"><img src="https://image.noelshack.com/fichiers/2023/09/4/1677728615-donate-removebg-preview.png" alt="Donate" style="height: auto !important; width: 100px !important;" ></a>
 
 ## License
 
