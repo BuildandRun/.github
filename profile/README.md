@@ -94,7 +94,7 @@ This software uses the following open source packages:
 
 ## License
 
-DMCA
+<a href="https://www.dmca.com/compliance/brstore.us" target="_blank"><img src="https://storage.brstore.us/img/footer/DMCA-protected.png" alt="DMCA" style="height: auto !important; width: 100px !important;" ></a>
 
 ---
 
