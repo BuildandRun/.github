@@ -39,12 +39,12 @@
 ## Implementation
 
 * Server
-   - <a href="https://image.noelshack.com/fichiers/2023/09/4/1677728649-br-server.png" target="_blank">Get a better view ↩</a>
+   - <a href="https://image.noelshack.com/fichiers/2023/09/4/1677728649-br-server.png" target="_blank">Get a better view ⏎</a>
    
   ![Server](https://image.noelshack.com/fichiers/2023/09/4/1677728006-br-server-transparent.png)
   
 * Payment
-   - <a href="https://image.noelshack.com/fichiers/2023/09/4/1677728652-br-payment-flow.png" target="_blank">Get a better view ↩</a>
+   - <a href="https://image.noelshack.com/fichiers/2023/09/4/1677728652-br-payment-flow.png" target="_blank">Get a better view ⏎</a>
 
   ![Payment Flow](https://image.noelshack.com/fichiers/2023/09/4/1677727983-br-payment-flow-transparent.png)
 
