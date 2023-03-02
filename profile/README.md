@@ -3,7 +3,7 @@
   <br>
   <a href="https://brstore.us"><img src="https://image.noelshack.com/fichiers/2023/09/4/1677718922-footer.png" alt="Build and Run" width="200" height="auto"></a>
   <br>
-  Markdownify
+  Build and Run
   <br>
 </h1>
 
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="#implementation">Implementatuib</a> •
+  <a href="#implementation">Implementation</a> •
   <a href="#administration">Adminstration</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
@@ -39,9 +39,9 @@
 ## Implementation
 
 * Server
-  - [Server](https://image.noelshack.com/fichiers/2023/09/4/1677728006-br-server-transparent.png)
+  ![Server](https://image.noelshack.com/fichiers/2023/09/4/1677728006-br-server-transparent.png)
 * Payment
-  - [Payment Flow](https://image.noelshack.com/fichiers/2023/09/4/1677727983-br-payment-flow-transparent.png)
+  ![Payment Flow](https://image.noelshack.com/fichiers/2023/09/4/1677727983-br-payment-flow-transparent.png)
 
 
 
@@ -81,11 +81,11 @@ This software uses the following open source packages:
 
 ## Support
 
-<a href="https://donate.stripe.com/eVadTF89Uacpa8ofZn" target="_blank"><img src="https://image.noelshack.com/fichiers/2023/09/4/1677720991-donate.gif" alt="Donate" style="height: auto !important; width: 200px !important;" ></a>
+<a href="https://donate.stripe.com/eVadTF89Uacpa8ofZn" target="_blank"><img src="https://image.noelshack.com/fichiers/2023/09/4/1677728255-donate-unscreen.gif" alt="Donate" style="height: auto !important; width: 100px !important;" ></a>
 
 ## License
 
-MIT
+DMCA
 
 ---
 
