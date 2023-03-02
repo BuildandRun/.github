@@ -82,6 +82,7 @@ This software uses the following open source packages:
 - [JavaScript](https://www.javascript.com/)
 - [Node.js](https://nodejs.org/)
 - [Next.js](https://nextjs.org/)
+- [Npm](https://www.npmjs.com/)
 - [Vercel](https://vercel.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - Emojis are taken from [here](https://emojipedia.org/)
