@@ -34,7 +34,7 @@
   <a href="#license">License</a>
 </p>
 
-![banner](https://image.noelshack.com/fichiers/2023/09/4/1677721486-banner-app.jpg)
+![br-banner](https://image.noelshack.com/fichiers/2023/09/4/1677729566-br-banner.png)
 
 ## Implementation
 
@@ -69,6 +69,8 @@ On the platform known as Build and Run, all internet users have access to a vari
 ## Download
 
 Our IOS and Android app is currently in development and will be available to download here. Try our [Web Application](https://brstore.us).
+
+![banner](https://image.noelshack.com/fichiers/2023/09/4/1677721486-banner-app.jpg)
 
 
 ## Credits
